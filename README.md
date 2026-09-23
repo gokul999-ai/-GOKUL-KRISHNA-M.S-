@@ -43,7 +43,7 @@ Hi, I'm Gokul Krishna M S first year EEE student at Government Engineering Colle
 ## 📬 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokul999-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-krishna-m-s-a0b686438?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
