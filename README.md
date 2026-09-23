@@ -11,7 +11,7 @@ Hi, I'm Gokul Krishna M S first year EEE student at Government Engineering Colle
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | C, Python, Basic C++ |
+| **Programming Languages** |  Python |
 | **Electronics & Hardware** | Basic Circuit Analysis, Digital Logic Design, Arduino |
 | **Tools & Platforms** | Git, GitHub, LaTeX, MATLAB / Simulink |
 | **Documentation & Systems**| Markdown, Linux Basics |
